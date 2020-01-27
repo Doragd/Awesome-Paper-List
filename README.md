@@ -2,7 +2,6 @@
 
 A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 
-![](show.gif)
 
 ## Contributing
 
