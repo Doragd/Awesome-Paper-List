@@ -4,7 +4,7 @@ A curated list of repositories in which many NLP/CV/ML papers and related area r
 
 ## Contributing
 
-The repository is under construction. Please feel free to send me [pull requests](https://github.com/Doragd/Awesome-Paper-List/pulls) or email (guodun.li@gmail.com) to add links. Markdown format:
+The repository is under construction. Please feel free to send me [pull requests](https://github.com/Doragd/Awesome-Paper-List/pulls) or email (guodun.li#gmail.com) to add links. Markdown format:
 ```Markdown
 - [Repository Name](link)
 ```
@@ -12,26 +12,54 @@ The repository is under construction. Please feel free to send me [pull requests
 
 ## Natural Language Processing
 
-* [Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding)
-* [BERT-based Research](https://github.com/cedrickchee/awesome-bert-nlp)
 * [Machine Translation](https://github.com/maidis/awesome-machine-translation)
 * [Text Classification](https://github.com/fendouai/Awesome-Text-Classification)
-* [Sememe Computation](https://github.com/thunlp/SCPapers)
-* [Pre-trained Language Model](https://github.com/thunlp/PLMpapers)
-* [Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)
+* [Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
+* [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
+* [Sentiment Analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
+* [Aspect-Based Sentiment Analysis](https://github.com/ZhengZixiang/ABSAPapers)
+* [Aspect-Based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
 * [Machine Reading Comprehension](https://github.com/thunlp/RCPapers)
-* [Neural Relation Extraction](https://github.com/thunlp/NREPapers)
+* [Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)
+* [Relation Extraction](https://github.com/thunlp/NREPapers)
+* [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+* [BERT-based Research](https://github.com/cedrickchee/awesome-bert-nlp)
+* [Pre-trained Language Model](https://github.com/thunlp/PLMpapers)
+* [Sememe Computation](https://github.com/thunlp/SCPapers)
 * [Text Generation](https://github.com/THUNLP-MT/TG-Reading-List)
 * [Text Generation](https://github.com/ChenChengKuan/awesome-text-generation)
+* [Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)
 * [Dialogue System](https://github.com/jaromirsalamon/Awesome-Dialogue-System-Papers)
 * [Dialogue System](https://github.com/ZhengZixiang/DSPapers)
 * [Dialogue Generation](https://github.com/tsenghungchen/dialog-generation-paper)
 * [Dialogue System](https://github.com/yajingsunno/dialogue-system-reading-paper-list)
+* [Dialogue State Tracking](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)
+* [Task-Oriented Dialogue](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)
+* [Conversational AI](https://github.com/jianguoz/Conversational-AI)
+* [Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding)
+* [Question Answering](https://github.com/dapurv5/awesome-question-answering)
+* [Knowledge Base Question Answering](https://github.com/BshoterJ/awesome-knowledge-graph-question-answering)
+* [Text Style Transfer](https://github.com/fuzhenxin/Style-Transfer-in-Text)
+* [Text Style Transfer](https://github.com/yd1996/awesome-text-style-transfer)
+* [Text Matching](https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match)
+* [Text Summarization](https://github.com/luopeixiang/awesome-text-summarization)
+* [Personal Emotional Stylized Dialog](https://github.com/fuzhenxin/Personal-Emotional-Stylized-Dialog)
+* [Named Entity Recognition](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers)
+* [Biomedical NER](https://github.com/lingluodlut/BioNER-Progress)
+* [Named Entity Recognition](https://github.com/ZhengZixiang/NERPapers)
+* [Cross-lingual Information Retrieval](https://github.com/ryanzhumich/awesome-clir)
+* [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
+* [Biomedical Entity Linking](https://github.com/umbrellabeach/awesome-Biomedical-EntityLinking-papers)
+* [Open Information Extraction](https://github.com/NPCai/Open-IE-Papers)
+* [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie)
+
 
 ## Computer Vision
 
 * [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
+* [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers)
 * [Object Detection](https://github.com/amusi/awesome-object-detection)
 * [Object Detection](https://github.com/hoya012/deep_learning_object_detection)
 * [Image-to-image Translation](https://github.com/xiaweihao/awesome-image-translation)
@@ -39,6 +67,9 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 * [vision-based SLAM / Visual Odometry](https://github.com/tzutalin/awesome-visual-slam)
 * [Video Understanding](https://github.com/sujiongming/awesome-video-understanding)
+* [Face-related](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+* [Scene Text Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+* [Text Detection & Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 
 
 ## Graphs
@@ -69,6 +100,25 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Cell Detection & Segmentation](https://github.com/blakeliu/awesome-cell-detection-segmentation)
 * [Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 * [Legal Intelligence](https://github.com/thunlp/LegalPapers)
+* [Data Augmentation](https://github.com/CrazyVertigo/awesome-data-augmentation)
+* [Decision Making](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning)
+
+## Commensense
+* [Commonsense Reasoning](https://github.com/yhy1117/Commonsense_Reasoning_Papers)
+* [Commonsense Modeling](https://github.com/wonderseen/Commonsense-Modeling)
+
+## Time Series
+
+* [Time Series](https://github.com/xephonhq/awesome-time-series-database)
+* [Time Series](https://github.com/bighuang624/Time-Series-Papers)
+* [Time Series in Python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+* [Time Series Analysis](https://github.com/youngdou/awesome-time-series-analysis)
+
+## Speech
+
+* [Speech Recognition & Synthesis](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+* [End2End Speech Recognition](https://github.com/charlesliucn/awesome-end2end-speech-recognition)
+* [Speech Enhancement](https://github.com/cyrta/awesome-speech-enhancement)
 
 ## Causality
 
@@ -90,7 +140,11 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Image Captioning](https://github.com/forence/Awesome-Visual-Captioning)
 * [Visual Question Answering](https://github.com/chingyaoc/awesome-vqa)
 * [Visual Question Answering](https://github.com/jokieleung/awesome-visual-question-answering)
+* [Visual Question Answering](https://github.com/DerekDLP/VQA-papers)
 * [Multimodal Machine Translation](https://github.com/ZihengZZH/awesome-multimodal-machine-translation)
+* [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+
+
 
 
 ## Knowledge Graph
@@ -101,7 +155,7 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 * [Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning)
 * [Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph)
-* [KBQA](https://github.com/BshoterJ/awesome-knowledge-graph-question-answering)
+
 
 
 
