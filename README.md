@@ -2,6 +2,8 @@
 
 A curated list of repositories in which many NLP/CV/ML papers and related area resources are collected.
 
+![](show.gif)
+
 ## Contributing
 
 The repository is under construction. Please feel free to send me [pull requests](https://github.com/Doragd/Awesome-Paper-List/pulls) or email (guodun.li#gmail.com) to add links. Markdown format:
