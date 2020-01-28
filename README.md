@@ -7,7 +7,9 @@ A curated list of repositories in which many NLP/CV/ML papers and related area r
 
 The repository is under construction. Please feel free to send me [pull requests](https://github.com/Doragd/Awesome-Paper-List/pulls) or email (guodun.li#gmail.com) to add links. Markdown format:
 ```Markdown
-- [Repository Name](link)
+- [Repository Name](link) <br>
+![](https://img.shields.io/badge/author-:user-192965)
+![](https://img.shields.io/github/stars/:user/:repo)
 ```
 
 
@@ -50,42 +52,95 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Named Entity Recognition](https://github.com/ZhengZixiang/NERPapers) <br> ![](https://img.shields.io/badge/author-ZhengZixiang-192965) ![](https://img.shields.io/github/stars/ZhengZixiang/NERPapers)
 * [Cross-lingual Information Retrieval](https://github.com/ryanzhumich/awesome-clir) <br> ![](https://img.shields.io/badge/author-ryanzhumich-192965) ![](https://img.shields.io/github/stars/ryanzhumich/awesome-clir)
 * [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) <br> ![](https://img.shields.io/badge/author-harpribot-192965) ![](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval)
-* [Biomedical Entity Linking](https://github.com/umbrellabeach/awesome-Biomedical-EntityLinking-papers) <br> ![](https://img.shields.io/badge/author-umbrellabeach-192965) ![](https://img.shields.io/github/stars/umbrellabeach/awesome-Biomedical-EntityLinking-papers)
-* [Open Information Extraction](https://github.com/NPCai/Open-IE-Papers) <br> ![](https://img.shields.io/badge/author-NPCai-192965) ![](https://img.shields.io/github/stars/NPCai/Open-IE-Papers)
-* [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie) <br> ![](https://img.shields.io/badge/author-caufieldjh-192965) ![](https://img.shields.io/github/stars/caufieldjh/awesome-bioie)
+* [Biomedical Entity Linking](https://github.com/umbrellabeach/awesome-Biomedical-EntityLinking-papers) <br> 
+![](https://img.shields.io/badge/author-umbrellabeach-192965)
+![](https://img.shields.io/github/stars/umbrellabeach/awesome-Biomedical-EntityLinking-papers)
+* [Open Information Extraction](https://github.com/NPCai/Open-IE-Papers) <br>
+![](https://img.shields.io/badge/author-NPCai-192965)
+![](https://img.shields.io/github/stars/NPCai/Open-IE-Papers)
+* [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie) <br>
+![](https://img.shields.io/badge/author-caufieldjh-192965)
+![](https://img.shields.io/github/stars/caufieldjh/awesome-bioie)
 
 
 ## Computer Vision
 
-* [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
-* [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
-* [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
-* [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers)
-* [Object Detection](https://github.com/amusi/awesome-object-detection)
-* [Object Detection](https://github.com/hoya012/deep_learning_object_detection)
-* [Image-to-image Translation](https://github.com/xiaweihao/awesome-image-translation)
-* [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
-* [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
-* [vision-based SLAM / Visual Odometry](https://github.com/tzutalin/awesome-visual-slam)
-* [Face-related](https://github.com/ChanChiChoi/awesome-Face_Recognition)
-* [Scene Text Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
-* [Text Detection & Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+* [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) <br>
+![](https://img.shields.io/badge/author-mrgloom-192965)
+![](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation)
+* [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) <br>
+![](https://img.shields.io/badge/author-jinwchoi-192965)
+![](https://img.shields.io/github/stars/jinwchoi/awesome-action-recognition)
+* [Image Classification](https://github.com/weiaicunzai/awesome-image-classification) <br>
+![](https://img.shields.io/badge/author-weiaicunzai-192965)
+![](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification)
+* [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers) <br>
+![](https://img.shields.io/badge/author-willard_yuan-192965)
+![](https://img.shields.io/github/stars/willard-yuan/awesome-cbir-papers)
+* [Object Detection](https://github.com/amusi/awesome-object-detection) <br>
+![](https://img.shields.io/badge/author-amusi-192965)
+![](https://img.shields.io/github/stars/amusi/awesome-object-detection)
+* [Object Detection](https://github.com/hoya012/deep_learning_object_detection) <br>
+![](https://img.shields.io/badge/author-hoya012-192965)
+![](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection)
+* [Image-to-image Translation](https://github.com/xiaweihao/awesome-image-translation) <br>
+![](https://img.shields.io/badge/author-xiaweihao-192965)
+![](https://img.shields.io/github/stars/xiaweihao/awesome-image-translation)
+* [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) <br>
+![](https://img.shields.io/badge/author-zhaoxin94-192965)
+![](https://img.shields.io/github/stars/zhaoxin94/awesome-domain-adaptation)
+* [vision-based SLAM / Visual Odometry](https://github.com/tzutalin/awesome-visual-slam) <br>
+![](https://img.shields.io/badge/author-tzutalin-192965)
+![](https://img.shields.io/github/stars/tzutalin/awesome-visual-slam)
+* [Face-related](https://github.com/ChanChiChoi/awesome-Face_Recognition) <br>
+![](https://img.shields.io/badge/author-ChanChiChoi-192965)
+![](https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition)
+* [Scene Text Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition) <br>
+![](https://img.shields.io/badge/author-chongyangtao-192965)
+![](https://img.shields.io/github/stars/chongyangtao/Awesome-Scene-Text-Recognition)
+* [Text Detection & Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) <br>
+![](https://img.shields.io/badge/author-hwalsuklee-192965)
+![](https://img.shields.io/github/stars/hwalsuklee/awesome-deep-text-detection-recognition)
 
 
 ## Graphs
 
-* [Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
-* [Graph Neural Networks](https://github.com/thunlp/GNNPapers)
-* [Graph Convolutional Networks](https://github.com/Jiakui/awesome-gcn)
-* [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
-* [Graph Representation Learning](https://github.com/ky-zhang/awesome-graph-representation-learning)
-* [Graph Representation Learning](https://github.com/thunlp/NRLPapers)
-* [Network Embeddings](https://github.com/chihming/awesome-network-embedding)
-* [Knowledge Graph Embeddings](https://github.com/thunlp/KB2E)
-* [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
-* [Topological Data Analysis](https://github.com/FatemehTarashi/awesome-TDA)
-* [Graph Adversarial Learning](https://github.com/YingtongDou/graph-adversarial-learning-literature)
-* [Graph Computing](https://github.com/jbmusso/awesome-graph)
+* [Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) <br>
+![](https://img.shields.io/badge/author-nnzhan-192965)
+![](https://img.shields.io/github/stars/nnzhan/Awesome-Graph-Neural-Networks)
+* [Graph Neural Networks](https://github.com/thunlp/GNNPapers) <br>
+![](https://img.shields.io/badge/author-thunlp-192965)
+![](https://img.shields.io/github/stars/thunlp/GNNPapers)
+* [Graph Convolutional Networks](https://github.com/Jiakui/awesome-gcn) <br>
+![](https://img.shields.io/badge/author-Jiakui-192965)
+![](https://img.shields.io/github/stars/Jiakui/awesome-gcn)
+* [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) <br>
+![](https://img.shields.io/badge/author-benedekrozemberczki-192965)
+![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-classification)
+* [Graph Representation Learning](https://github.com/ky-zhang/awesome-graph-representation-learning) <br>
+![](https://img.shields.io/badge/author-ky_zhang-192965)
+![](https://img.shields.io/github/stars/ky-zhang/awesome-graph-representation-learning)
+* [Graph Representation Learning](https://github.com/thunlp/NRLPapers) <br>
+![](https://img.shields.io/badge/author-thunlp-192965)
+![](https://img.shields.io/github/stars/thunlp/NRLPapers)
+* [Network Embeddings](https://github.com/chihming/awesome-network-embedding) <br>
+![](https://img.shields.io/badge/author-chihming-192965)
+![](https://img.shields.io/github/stars/chihming/awesome-network-embedding)
+* [Knowledge Graph Embeddings](https://github.com/thunlp/KB2E) <br>
+![](https://img.shields.io/badge/author-thun-192965)
+![](https://img.shields.io/github/stars/thunlp/KB2E)
+* [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) <br>
+![](https://img.shields.io/badge/author-benedekrozemberczki-192965)
+![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-community-detection)
+* [Topological Data Analysis](https://github.com/FatemehTarashi/awesome-TDA) <br>
+![](https://img.shields.io/badge/author-FatemehTarashi-192965)
+![](https://img.shields.io/github/stars/FatemehTarashi/awesome-TDA)
+* [Graph Adversarial Learning](https://github.com/YingtongDou/graph-adversarial-learning-literature) <br>
+![](https://img.shields.io/badge/author-YingtongDou-192965)
+![](https://img.shields.io/github/stars/YingtongDou/graph-adversarial-learning-literature)
+* [Graph Computing](https://github.com/jbmusso/awesome-graph) <br>
+![](https://img.shields.io/badge/author-jbmusso-192965)
+![](https://img.shields.io/github/stars/jbmusso/awesome-graph)
 
   
 ## Others
