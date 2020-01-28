@@ -13,14 +13,14 @@ The repository is under construction. Please feel free to send me [pull requests
 
 ## Natural Language Processing
 
-* [Machine Translation](https://github.com/maidis/awesome-machine-translation)
-* [Text Classification](https://github.com/fendouai/Awesome-Text-Classification)
-* [Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
-* [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis)
-* [Sentiment Analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
-* [Aspect-Based Sentiment Analysis](https://github.com/ZhengZixiang/ABSAPapers)
-* [Aspect-Based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
-* [Machine Reading Comprehension](https://github.com/thunlp/RCPapers)
+* [Machine Translation](https://github.com/maidis/awesome-machine-translation) <br> ![](https://img.shields.io/badge/author-maidis-c9485b) ![](https://img.shields.io/github/stars/maidis/awesome-machine-translation)
+* [Text Classification](https://github.com/fendouai/Awesome-Text-Classification) <br> ![](https://img.shields.io/badge/author-fendouai-c9485b) ![](https://img.shields.io/github/stars/fendouai/Awesome-Text-Classification)
+* [Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) <br> ![](https://img.shields.io/badge/author-xiamx-c9485b) ![](https://img.shields.io/github/stars/xiamx/awesome-sentiment-analysis)
+* [Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) <br> ![](https://img.shields.io/badge/author-laugustyniak-c9485b) ![](https://img.shields.io/github/stars/laugustyniak/awesome-sentiment-analysis)
+* [Sentiment Analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) <br> ![](https://img.shields.io/badge/author-haiker2011-c9485b) ![](https://img.shields.io/github/stars/haiker2011/awesome-nlp-sentiment-analysis)
+* [Aspect-Based Sentiment Analysis](https://github.com/ZhengZixiang/ABSAPapers) <br> ![](https://img.shields.io/badge/author-ZhengZixiang-c9485b) ![](https://img.shields.io/github/stars/ZhengZixiang/ABSAPapers)
+* [Aspect-Based Sentiment Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis) <br> ![](https://img.shields.io/badge/author-jiangqn-c9485b) ![](https://img.shields.io/github/stars/jiangqn/Aspect-Based-Sentiment-Analysis)
+* [Machine Reading Comprehension](https://github.com/thunlp/RCPapers) <br> ![](https://img.shields.io/badge/author-thunlp-c9485b) ![](https://img.shields.io/github/stars/thunlp/RCPapers)
 * [Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)
 * [Relation Extraction](https://github.com/thunlp/NREPapers)
 * [Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
