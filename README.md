@@ -21,6 +21,7 @@ A curated list of repositories in which many NLP/CV/ML papers and related area r
   - [Speech](#speech)
   - [Causality](#causality)
   - [Anomaly Detection](#anomaly-detection)
+  - [Thanks](#thanks)
 
 
 
@@ -318,7 +319,9 @@ The repository is under construction. Please feel free to send me [pull requests
 ![](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection)
 
 
+## Thanks
 
+Thanks to authors of all the repositories I cite. :)
 
 
 
