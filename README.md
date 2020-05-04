@@ -161,9 +161,9 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Topological Data Analysis](https://github.com/FatemehTarashi/awesome-TDA) <br>
 ![](https://img.shields.io/badge/author-FatemehTarashi-be8abf)
 ![](https://img.shields.io/github/stars/FatemehTarashi/awesome-TDA)
-* [Graph Adversarial Learning](https://github.com/YingtongDou/graph-adversarial-learning-literature) <br>
-![](https://img.shields.io/badge/author-YingtongDou-be8abf)
-![](https://img.shields.io/github/stars/YingtongDou/graph-adversarial-learning-literature)
+* [Graph Adversarial Learning](https://github.com/safe-graph/graph-adversarial-learning-literature) <br>
+![](https://img.shields.io/badge/author-SafeGraph-be8abf)
+![](https://img.shields.io/github/stars/safe-graph/graph-adversarial-learning-literature)
 * [Graph Computing](https://github.com/jbmusso/awesome-graph) <br>
 ![](https://img.shields.io/badge/author-jbmusso-be8abf)
 ![](https://img.shields.io/github/stars/jbmusso/awesome-graph)
@@ -245,6 +245,9 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) <br>
 ![](https://img.shields.io/badge/author-benedekrozemberczki-be8abf)
 ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-fraud-detection-papers)
+* [Graph-based Fraud Detection](https://github.com/safe-graph/graph-fraud-detection-papers) <br>
+![](https://img.shields.io/badge/author-SafeGraph-be8abf)
+![](https://img.shields.io/github/stars/safe-graph/graph-fraud-detection-papers)
 * [Legal Intelligence](https://github.com/thunlp/LegalPapers) <br>
 ![](https://img.shields.io/badge/author-thunlp-be8abf)
 ![](https://img.shields.io/github/stars/thunlp/LegalPapers)
