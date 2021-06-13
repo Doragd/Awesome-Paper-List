@@ -217,7 +217,9 @@ The repository is under construction. Please feel free to send me [pull requests
 
   
 ## Others
-
+* [Weak Supervision](https://github.com/michael-aloys/awesome-weak-supervision) <br>
+![](https://img.shields.io/badge/author-michael--aloys-be8abf)
+![](https://img.shields.io/github/stars/michael-aloys/awesome-weak-supervision)
 * [Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) <br>
 ![](https://img.shields.io/badge/author-matthewvowels1-be8abf)
 ![](https://img.shields.io/github/stars/matthewvowels1/Awesome-VAEs)
