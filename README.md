@@ -1,4 +1,4 @@
-# Awesome paper list 
+# Awesome paper list
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -78,7 +78,7 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Named Entity Recognition](https://github.com/ZhengZixiang/NERPapers) <br> ![](https://img.shields.io/badge/author-ZhengZixiang-be8abf) ![](https://img.shields.io/github/stars/ZhengZixiang/NERPapers)
 * [Cross-lingual Information Retrieval](https://github.com/ryanzhumich/awesome-clir) <br> ![](https://img.shields.io/badge/author-ryanzhumich-be8abf) ![](https://img.shields.io/github/stars/ryanzhumich/awesome-clir)
 * [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) <br> ![](https://img.shields.io/badge/author-harpribot-be8abf) ![](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval)
-* [Biomedical Entity Linking](https://github.com/umbrellabeach/awesome-Biomedical-EntityLinking-papers) <br> 
+* [Biomedical Entity Linking](https://github.com/umbrellabeach/awesome-Biomedical-EntityLinking-papers) <br>
 ![](https://img.shields.io/badge/author-umbrellabeach-be8abf)
 ![](https://img.shields.io/github/stars/umbrellabeach/awesome-Biomedical-EntityLinking-papers)
 * [Open Information Extraction](https://github.com/NPCai/Open-IE-Papers) <br>
@@ -215,7 +215,7 @@ The repository is under construction. Please feel free to send me [pull requests
 ![](https://img.shields.io/github/stars/TheShadow29/awesome-grounding)
 
 
-  
+
 ## Others
 * [Weak Supervision](https://github.com/michael-aloys/awesome-weak-supervision) <br>
 ![](https://img.shields.io/badge/author-michael--aloys-be8abf)
@@ -259,6 +259,9 @@ The repository is under construction. Please feel free to send me [pull requests
 * [Decision Making](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning) <br>
 ![](https://img.shields.io/badge/author-jiachenli94-be8abf)
 ![](https://img.shields.io/github/stars/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning)
+* [Multi-Label Learning](https://github.com/entropy2333/awesome-multi-label-paper-list) <br>
+![](https://img.shields.io/badge/author-entropy2333-be8abf)
+![](https://img.shields.io/github/stars/entropy2333/awesome-multi-label-paper-list)
 
 ## Commensense
 * [Commonsense Reasoning](https://github.com/yhy1117/Commonsense_Reasoning_Papers) <br>
@@ -330,18 +333,3 @@ The repository is under construction. Please feel free to send me [pull requests
 ## Thanks
 
 Thanks to authors of all the repositories I cite. :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
